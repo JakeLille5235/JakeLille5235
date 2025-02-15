@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JakeLille5235 (Jake Lille). I am currently a student at the Universtiy of Central Florda, pursing a Marketing major, with a minor in Statistics.
+- 👋 Hi, I’m @JakeLille5235 (Jake Lille). I am a UCF alumni with passion and interest in all things tech. I graduated with a Marketing and Statistics focused degree, however, am in process of obtaining my cybersecurity certifications and completing independent projects. 
 - 👀 I’m interested in learning, driven by my hyper-curiousity and desire to problem solve. Passions include reading, running (tri-athlete), playing/creating music (guitar) and traveling!
 
 <!---
